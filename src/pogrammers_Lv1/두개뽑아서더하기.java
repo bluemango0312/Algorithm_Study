@@ -2,7 +2,7 @@ package pogrammers_Lv1;
 
 import java.util.*;
 
-class PickTwoAndAddMore {
+class 두개뽑아서더하기 {
     public int[] solution(int[] numbers) {
         PriorityQueue<Integer> queue = new PriorityQueue<>();
         
